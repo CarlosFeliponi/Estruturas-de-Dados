@@ -5,5 +5,8 @@ Algumas demonstrações simples do uso de estruturas de dados em C, aonde os exe
 *Quaisquer melhoria são muito bem vindas*
 
 
+* IDE: CodeBlocks
+
+
 **1. LIFO/Pilha com Vetores**
 * Contem 10 posições de elementos inteiros
