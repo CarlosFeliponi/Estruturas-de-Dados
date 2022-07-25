@@ -1,4 +1,4 @@
-# Estruturas de Dados <h1>
+# Estruturas de Dados
 Algumas demonstrações simples de uso de estruturas de dados em C, aonde os exemplos pretentem ser o mais ditatico possivel.
 
 
