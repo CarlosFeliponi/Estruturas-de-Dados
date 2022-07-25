@@ -1,8 +1,8 @@
 # Estruturas de Dados
-Algumas demonstrações simples de uso de estruturas de dados em C, aonde os exemplos pretentem ser o mais ditatico possivel.
+Algumas demonstrações simples do uso de estruturas de dados em C, aonde os exemplos pretendem ser o mais didático possível.
 
 
-*Qualquer melhoria nos codigos são muito bem vindas*
+*Quaisquer melhoria nos códigos são muito bem vindas*
 
 
 **1. LIFO/Pilha com Vetores**
